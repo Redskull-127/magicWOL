@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784943182931",
+    "project_id": "magic-wol-a5742",
+    "storage_bucket": "magic-wol-a5742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784943182931:android:756b36f6404168415bc2a6",
+        "android_client_info": {
+          "package_name": "com.redskull.magic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784943182931-orhp1r8vvs30lfa9ao2f0jb96jsqqg8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redskull.magic",
+            "certificate_hash": "d769a64a9200436e96390855d3451a31aa009257"
+          }
+        },
+        {
+          "client_id": "784943182931-fjsp7fqf3p4k840se99uge3ps1sjkj8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOricU16Tq7ujKfcH0gvqIIbqebGDuAi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784943182931-fjsp7fqf3p4k840se99uge3ps1sjkj8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
